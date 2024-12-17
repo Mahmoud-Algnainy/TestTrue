@@ -1,2 +1,18 @@
 ".vs/" 
 ".sln/" 
+"True.sln"
+# Ignore Visual Studio cache and temporary files
+.vs/
+*.vsidx
+*.user
+*.suo
+*.vscode/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore solution-specific temporary files
+*.sln.docstates
+*.sln.ide
+*.sln
